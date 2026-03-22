@@ -56,7 +56,7 @@
 
 ## 📌 Featured Projects
   - **[🚜AppGro](https://github.com/Dario849/AppGro?tab=readme-ov-file#appgro)**
-  - **[Working on more..]()**
+  - **[Working on more..](https://github.com/Dario849#-featured-projects)**
 ### 🚜 AppGro
 > A Management tool where you can have a day to day follow-up of your pending tasks, economic growth, and  for the agricultural sector, done for a degree's final project.
 
@@ -86,5 +86,5 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/devdariorodriguez">LinkedIn</a> •
-  <a href="[[portfolio-link]](https://dario849.github.io/github-portfolio/)">Portfolio</a>
+  <a href="https://dario849.github.io/github-portfolio/">Portfolio</a>
 </p>
