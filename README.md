@@ -21,8 +21,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dario849&show_icons=true&theme=tokyonight" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dario849&layout=compact&theme=tokyonight" alt="langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dario849&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dario849&layout=compact&theme=tokyonight" alt="langs" />
 </p>
 
 ---
@@ -49,7 +49,7 @@
 ## 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Dario849&theme=tokyonight" alt="streak"/>
+  <img src="https://streak-stats.demolab.com?user=dario849&theme=tokyonight" alt="streak"/>
 </p>
 
 ---
@@ -77,7 +77,7 @@
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dario849&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dario849&theme=tokyo-night" />
 </p>
 
 ---
