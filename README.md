@@ -18,15 +18,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dario849&show_icons=true&theme=tokyonight" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dario849&layout=compact&theme=tokyonight" alt="langs" />
-</p>
-
----
-
 ## 🛠️ Tech Stack I used at some point
 
 ### Languages
